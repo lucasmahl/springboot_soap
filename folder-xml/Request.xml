@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetCustomerDetailRequest xmlns="http://lucasmahl.com.br"> <!-- xmlns = namespace. Torna o xml exclusivo -->
+	<id>123</id>
+</GetCustomerDetailRequest>
