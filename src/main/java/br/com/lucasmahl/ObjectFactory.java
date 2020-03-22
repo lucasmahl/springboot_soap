@@ -60,12 +60,4 @@ public class ObjectFactory {
         return new GetCustomerDetailRequest();
     }
 
-    /**
-     * Create an instance of {@link GetAllCustomerAllResponse }
-     * 
-     */
-    public GetAllCustomerAllResponse createGetAllCustomerAllResponse() {
-        return new GetAllCustomerAllResponse();
-    }
-
 }
